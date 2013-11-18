@@ -1,0 +1,14 @@
+2
+airports,7
+ID,int,NO,PRI,0
+TYPE,varchar(50),YES,,NULL
+NAME,varchar(50),YES,,NULL
+LATITUDE,int,YES,,NULL
+LONGITUDE,int,YES,,NULL
+COUNTRY,varchar(50),YES,,NULL
+REGION,varchar(50),YES,,NULL
+countries,4
+ID,int,NO,,NULL
+CODE,int,NO,PRI,NULL
+NAME,varchar(50),NO,,NULL
+CONTINENT,varchar(50),NO,,NULL
